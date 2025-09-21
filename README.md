@@ -71,10 +71,13 @@
 
   <!-- Chamada Final -->
   <section id="cta" class="bg-pink-600 text-white py-16 text-center px-6">
-    <h2 class="text-3xl font-extrabold">🚀 Seu Futuro Está em Jogo</h2>
-    <p class="mt-4 text-lg max-w-2xl mx-auto">Não espere pelo “momento certo”. O momento é <span class="font-bold">agora</span>. Tome a decisão que vai mudar sua vida para sempre.</p>
-    <a href="#" class="inline-block mt-6 bg-white text-pink-600 font-semibold py-4 px-12 rounded-2xl shadow-md hover:bg-gray-100 transition">Comprar Agora</a>
-  </section>
+  <h2 class="text-3xl font-extrabold">🚀 Seu Futuro Está em Jogo</h2>
+  <p class="mt-4 text-lg max-w-2xl mx-auto">Não espere pelo “momento certo”. O momento é <span class="font-bold">agora</span>. Tome a decisão que vai mudar sua vida para sempre.</p>
+  <a href="https://pay.kiwify.com.br/LezFCsX" 
+     class="inline-block mt-6 bg-white text-pink-600 font-semibold py-4 px-12 rounded-2xl shadow-md hover:bg-gray-100 transition">
+     Comprar Agora
+  </a>
+</section>
 
   <!-- Rodapé -->
   <footer class="bg-gray-900 text-gray-400 py-6 text-center text-sm">
