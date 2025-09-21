@@ -9,13 +9,13 @@
 <body class="bg-gray-50 text-gray-800">
   <!-- Hero -->
   <section class="bg-pink-600 text-white py-16 text-center px-6">
-  <h1 class="text-4xl font-extrabold mb-4">🚨 Pare de Procrastinar os Seus Sonhos – O Momento é Agora!</h1>
-  <p class="text-lg max-w-2xl mx-auto">Descubra como vencer a procrastinação, destruir a autossabotagem e finalmente conquistar a vida que você merece.</p>
-  <a href="https://pay.kiwify.com.br/LezFCsX" target="_blank" 
-     class="inline-block mt-6 bg-white text-pink-600 font-semibold py-3 px-8 rounded-2xl shadow-md hover:bg-gray-100 transition">
-     Quero Transformar Minha Vida Agora
-  </a>
-</section>
+    <h1 class="text-4xl font-extrabold mb-4">🚨 Pare de Procrastinar os Seus Sonhos – O Momento é Agora!</h1>
+    <p class="text-lg max-w-2xl mx-auto">Descubra como vencer a procrastinação, destruir a autossabotagem e finalmente conquistar a vida que você merece.</p>
+    <a href="https://pay.kiwify.com.br/LezFCsX"
+       class="inline-block mt-6 bg-white text-pink-600 font-semibold py-3 px-8 rounded-2xl shadow-md hover:bg-gray-100 transition">
+       Quero Transformar Minha Vida Agora
+    </a>
+  </section>
 
   <!-- Inimigo Invisível -->
   <section class="max-w-5xl mx-auto py-16 px-6 text-center">
@@ -65,28 +65,28 @@
 
   <!-- Oferta -->
   <section id="oferta" class="bg-white py-16 px-6 text-center">
-  <h2 class="text-3xl font-bold mb-6">Oferta Especial</h2>
-  <p class="text-lg text-gray-700">📘 <strong>Livro Digital: Pare de Procrastinar os Seus Sonhos</strong></p>
-  <p class="text-lg text-gray-700">💡 Acesso imediato no seu e-mail após a compra</p>
-  <p class="text-4xl font-extrabold text-pink-600 mt-4">R$ 49,00</p>
-  <a href="https://pay.kiwify.com.br/LezFCsX" target="_blank" 
-     class="inline-block mt-6 bg-pink-600 hover:bg-pink-700 text-white font-semibold py-4 px-10 rounded-2xl shadow-md transition">
-     Sim, Eu Quero Vencer a Procrastinação Agora!
-  </a>
-</section>
+    <h2 class="text-3xl font-bold mb-6">Oferta Especial</h2>
+    <p class="text-lg text-gray-700">📘 <strong>Livro Digital: Pare de Procrastinar os Seus Sonhos</strong></p>
+    <p class="text-lg text-gray-700">💡 Acesso imediato no seu e-mail após a compra</p>
+    <p class="text-4xl font-extrabold text-pink-600 mt-4">R$ 49,00</p>
+    <a href="https://pay.kiwify.com.br/LezFCsX"
+       class="inline-block mt-6 bg-pink-600 hover:bg-pink-700 text-white font-semibold py-4 px-10 rounded-2xl shadow-md transition">
+       Sim, Eu Quero Vencer a Procrastinação Agora!
+    </a>
+  </section>
 
   <!-- Chamada Final -->
   <section id="cta" class="bg-pink-600 text-white py-16 text-center px-6">
-  <h2 class="text-3xl font-extrabold">🚀 Seu Futuro Está em Jogo</h2>
-  <p class="mt-4 text-lg max-w-2xl mx-auto">
-    Não espere pelo “momento certo”. O momento é <span class="font-bold">agora</span>. 
-    Tome a decisão que vai mudar sua vida para sempre.
-  </p>
-  <a href="https://pay.kiwify.com.br/LezFCsX" target="_blank" 
-     class="inline-block mt-6 bg-white text-pink-600 font-semibold py-4 px-12 rounded-2xl shadow-md hover:bg-gray-100 transition">
-     Comprar Agora
-  </a>
-</section>
+    <h2 class="text-3xl font-extrabold">🚀 Seu Futuro Está em Jogo</h2>
+    <p class="mt-4 text-lg max-w-2xl mx-auto">
+      Não espere pelo “momento certo”. O momento é <span class="font-bold">agora</span>. 
+      Tome a decisão que vai mudar sua vida para sempre.
+    </p>
+    <a href="https://pay.kiwify.com.br/LezFCsX"
+       class="inline-block mt-6 bg-white text-pink-600 font-semibold py-4 px-12 rounded-2xl shadow-md hover:bg-gray-100 transition">
+       Comprar Agora
+    </a>
+  </section>
 
   <!-- Rodapé -->
   <footer class="bg-gray-900 text-gray-400 py-6 text-center text-sm">
@@ -94,3 +94,4 @@
   </footer>
 </body>
 </html>
+
